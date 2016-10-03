@@ -13,13 +13,13 @@ To create the tidydata dataset, the following transformations are made to the da
 	e. "Mag" is replaced by "Magnitude"
 	f. "BodyBody" is replaced by "Body"
 
-The variables of the tidydata dataset are the following:
+## Variables of the tidydata dataset:
 
-Identifiers:
+### Identifiers:
 -"subject" - the ID of the person
 -"activity" - activity performed while measurements are taken
 
-Measurements:
+### Measurements:
 -"TimeBodyAccelerometer-mean()-X" 
 -"TimeBodyAccelerometer-mean()-Y" 
 -"TimeBodyAccelerometer-mean()-Z" 
@@ -100,7 +100,7 @@ Measurements:
 -"FrequencyBodyGyroscopeJerkMagnitude-std()" 
 -"FrequencyBodyGyroscopeJerkMagnitude-meanFreq()" 
 
-Activity types:
+### Activity types:
 1 WALKING - person was walking during test
 2 WALKING_UPSTAIRS - person was walking upstairs during test
 3 WALKING_DOWNSTAIRS - person was walking downstairs during test
