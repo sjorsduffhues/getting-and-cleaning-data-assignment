@@ -6,12 +6,12 @@ To create the tidydata dataset, the following transformations are made to the da
 2. the testing and training data are merged to one dataset
 3. only measurements on the mean and standard deviation are extracted
 4. descriptive activity and variable names are added
-	a. names starting with a "t" are named "Time"
-	b. names starting with an "f" are named "Frequency"
-	c. "Acc" is replaced by "Accelerometer"
-	d. "Gyro" is replaced by "Gyroscope"
-	e. "Mag" is replaced by "Magnitude"
-	f. "BodyBody" is replaced by "Body"
+	* names starting with a "t" are named "Time"
+	* names starting with an "f" are named "Frequency"
+	* "Acc" is replaced by "Accelerometer"
+	* "Gyro" is replaced by "Gyroscope"
+	* "Mag" is replaced by "Magnitude"
+	* "BodyBody" is replaced by "Body"
 
 ## Variables of the tidydata dataset:
 
